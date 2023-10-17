@@ -43,14 +43,8 @@ ol{
 }
 
 dd{
-    background-image: 
-    conic-gradient(100deg,
-        cyan 20%,
-        tomato 20%,
-        tomato 30%,
-        green 30%,
-        green 40%,
-        pink 80%,
-      );
-      -webkit-background-clip: text;
+    background: linear-gradient(to bottom,rgba(255, 166, 0, 0.562) 33%, rgba(255, 0, 0, 0.564) 33%, rgba(255, 0, 0, 0.753) 67%, rgba(255, 255, 0, 0.603) 67%);
+    width: 100px;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color:transparent
 }

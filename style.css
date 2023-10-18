@@ -28,8 +28,8 @@ img{
 
 p{
     height: 100px;
-    overflow:scroll;
-    line-height: 1.5;
+    overflow:auto;
+    line-height: 32px;
 }
 
 ul{
@@ -43,8 +43,7 @@ ol{
 }
 
 dd{
-    background: linear-gradient(to bottom,rgba(255, 166, 0, 0.562) 33%, rgba(255, 0, 0, 0.564) 33%, rgba(255, 0, 0, 0.753) 67%, rgba(255, 255, 0, 0.603) 67%);
-    width: 100px;
+    color: transparent ;
+    background: conic-gradient(rgba(255, 166, 0, 0.562) 33%, rgba(255, 0, 0, 0.564) 33%, rgba(255, 0, 0, 0.753) 67%, rgba(0, 34, 255, 0.603) 67%);
     -webkit-background-clip: text;
-    -webkit-text-fill-color:transparent
 }

@@ -37,12 +37,12 @@ p{
 
 ul{
     background: linear-gradient(to bottom,rgba(255, 166, 0, 0.562) 33%, rgba(255, 0, 0, 0.564) 33%, rgba(255, 0, 0, 0.753) 67%, rgba(255, 255, 0, 0.603) 67%);
-    width: 100px;
+
 }
 
 ol{
     background: radial-gradient(circle,rgb(255, 0, 51) 33%, rgba(217, 0, 0, 0.676) 33%, rgba(255, 100, 44, 0.724) 67%, rgba(255, 179, 1, 0.591) 67%);
-    width: 100px;
+
 }
 
 dd{
